@@ -17,7 +17,7 @@
         android:layout_height="200dp"
         android:layout_margin="10dp"
         android:gravity="center"
-        android:text="Qui est le 44ᵉ président des États-Unis ?"
+        android:text="Who is the 44th President of the United States?"
         android:textSize="40sp"
         android:paddingStart="10dp"
         android:paddingEnd="10dp" />
